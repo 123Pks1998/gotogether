@@ -17,7 +17,7 @@ const Navbar = () => {
 
             <div className='md:flex w-3/4 justify-between items-center '>
                 <Link href='/' className='flex gap-2 mx-2'>
-                    <img src="/pks.png" alt="pic" className='w-10 h-10 rounded-2xl' />
+                    <img src="/GT.png" alt="pic" className='w-10 h-10 rounded-2xl' />
                     <p className='capitalize italic items-center flex'>go together</p>
                 </Link>
 
