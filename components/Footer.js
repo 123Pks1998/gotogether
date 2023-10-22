@@ -7,7 +7,7 @@ const Footer = () => {
         <footer className="bottom-0   w-full bg-slate-200   text-gray-600 body-font">
             <div className="container px-5 py-4 mx-auto flex items-center sm:flex-row flex-col">
                 <Link href='/' className='flex gap-2 mx-2'>
-                    <img src="/pks.png" alt="pic" className='w-10 h-10 rounded-2xl' />
+                    <img src="/GT.png" alt="pic" className='w-10 h-10 rounded-2xl' />
                     <p className='capitalize italic items-center flex'>go together</p>
                 </Link>
                 <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4 ml-6">© 2023 GoTogether
